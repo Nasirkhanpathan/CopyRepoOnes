@@ -1,3 +1,4 @@
 gather information from client and create SRS document
 create test plan document
 design test scenarios and test cases
+review test cases
